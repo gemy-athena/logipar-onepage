@@ -192,10 +192,10 @@
 
           <div class="flex sm:flex-col lg:flex-row justify-center items-center mt-10">
             <div class="flex m-5">
-              <img src="~/assets/logo/distrigo.png" alt="Distrigo">
+              <img src="~/assets/logos/distrigo.png" alt="Distrigo">
             </div>
             <div class="flex m-5">
-              <img src="~/assets/logo/eurorepar.png" alt="Distrigo">
+              <img src="~/assets/logos/eurorepar.png" alt="Distrigo">
             </div>
           </div>
           <div class="max-w-md mx-auto text-lg text-gray-600 font-light sm:text-xl mt-10 md:max-w-3xl">

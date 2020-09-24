@@ -6,7 +6,7 @@
         <div class="flex flex-col text-center content-center self-center items-center">
           <div class="text-3xl leading-none font-extrabold text-white">
             <img
-              src="~/assets/logo/logo_logipar_provence_blc.png"
+              src="~/assets/logos/logo_logipar_provence_blc.png"
               class="h-20"
               alt="Logipar - Provence"
             >
@@ -66,7 +66,7 @@
         <div class="flex flex-col text-center content-center self-center items-center">
           <div class="text-3xl leading-none font-extrabold text-white">
             <img
-              src="~/assets/logo/logo_logipar_ouest_blc.png"
+              src="~/assets/logos/logo_logipar_ouest_blc.png"
               class="h-20"
               alt="Logipar - Provence"
             >
