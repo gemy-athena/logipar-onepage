@@ -1,5 +1,5 @@
 {
-  "name": "logipar-onepage",
+  "name": "autoprepar-onepage",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,15 +11,17 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
-    "@nuxt/content": "^1.5.0",
-    "nuxt": "^2.14.0"
+    "@nuxt/content": "^1.8.1",
+    "nuxt": "^2.14.5"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.1.0",
     "@nuxtjs/eslint-module": "^2.0.0",
-    "@nuxtjs/tailwindcss": "^2.1.0",
+    "@nuxtjs/tailwindcss": "^3.0.2",
+    "@tailwindcss/custom-forms": "^0.2.1",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.5.0",
-    "eslint-plugin-nuxt": "^1.0.0"
+    "eslint-plugin-nuxt": "^1.0.0",
+    "tailwindcss-debug-screens": "^1.1.0"
   }
 }
