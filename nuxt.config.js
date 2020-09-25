@@ -40,6 +40,13 @@ export default {
   build: {},
   robots: {},
   sitemap: {
-    hostname: 'https://logipar.gemy-athena.com'
+    path: '/sitemap.xml',
+    hostname: 'https://logipar.gemy-athena.com',
+    cacheTime: 1000 * 60 * 1,
+    gzip: true,
+    generate: false,
+    routes() {
+      return getRoutes();
+    }
   }
 }
