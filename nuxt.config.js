@@ -38,7 +38,9 @@ export default {
   ],
   content: {},
   build: {},
-  robots: {},
+  robots: {
+    Sitemap: `${process.env.logipar.gemy-athena.com}/sitemap.xml`
+    },
   sitemap: {
     path: '/sitemap.xml',
     hostname: 'https://logipar.gemy-athena.com',
