@@ -17,7 +17,7 @@
         <img class="h-48 w-48" src="~/assets/fournisseurs/beru.svg" alt="beru">
       </Slide>
       <Slide class="flex justify-center">
-        <img class="h-48 w-48" src="~/assets/fournisseurs/bosch.svg" alt="bosch">
+        <img class="h-48 w-48" src="~/assets/fournisseurs/ngk.svg" alt="ngk">
       </Slide>
       <Slide class="flex justify-center">
         <img class="h-48 w-48" src="~/assets/fournisseurs/champion.svg" alt="champion">
