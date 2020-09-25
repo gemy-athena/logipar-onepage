@@ -20,7 +20,7 @@
         <img class="h-48 w-48" src="~/assets/fournisseurs/ngk.svg" alt="ngk">
       </Slide>
       <Slide class="flex justify-center">
-        <img class="h-48 w-48" src="~/assets/fournisseurs/champion.svg" alt="champion">
+        <img class="h-48 w-48" src="~/assets/fournisseurs/kent.svg" alt="kent">
       </Slide>
       <Slide class="flex justify-center">
         <img class="h-48 w-48" src="~/assets/fournisseurs/corteco.svg" alt="corteco">
