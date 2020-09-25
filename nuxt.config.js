@@ -42,7 +42,7 @@ export default {
       {
         hid: 'og:image',
         name: 'og:image',
-        content: `~/assets/logos/logo_logipar_ouest_blc.png`
+        content: '~/assets/logos/logo_logipar_ouest_blc.png'
       },
       {
         name: 'msapplication-TileColor',
@@ -77,16 +77,13 @@ export default {
   content: {},
   build: {},
   robots: {
-    Sitemap: `~/sitemap.xml`
-    },
+    Sitemap: '~/sitemap.xml'
+  },
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://logipar.gemy-athena.com',
-    cacheTime: 1000 * 60 * 1,
+    hostname: 'https://logipar.fr',
+    cacheTime: '1000 * 60 * 1',
     gzip: true,
-    generate: false,
-    routes() {
-      return getRoutes();
-    }
+    generate: false
   }
 }
