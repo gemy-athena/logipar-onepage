@@ -13,6 +13,49 @@ export default {
         hid: 'description',
         name: 'description',
         content: 'Le spécialiste de la distribution de pièces de rechange automobile multimarques. Logipar opère au sein du réseau Distrigo depuis ses 2 plateformes : Ouest (Torcé) & Provence (Le Luc).'
+      },
+      {
+        hid: 'og:type',
+        name: 'og:type',
+        content: 'website'
+      },
+      {
+        hid: 'og:url',
+        name: 'og:url',
+        content: https://logipar.gemy-athena.com
+      },
+      {
+        hid: 'og:title',
+        name: 'og:title',
+        content: 'Logipar'
+      },
+      {
+        hid: 'og:site_name',
+        name: 'og:site_name',
+        content: 'Logipar'
+      },
+      {
+        hid: 'og:locale',
+        name: 'og:locale',
+        content: 'fr'
+      },
+      {
+        hid: 'og:image',
+        name: 'og:image',
+        content: `~/assets/logos/logo_logipar_ouest_blc.png`
+      },
+      //{
+      //  hid: 'google-site-verification',
+      //  name: 'google-site-verification', 
+      //  content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN
+      //},
+      {
+        name: 'msapplication-TileColor',
+        content: '#FDF8F3'
+      },
+      {
+        name: 'theme-color',
+        content: '#FDF8F3'
       }
     ],
     link: [
@@ -39,7 +82,7 @@ export default {
   content: {},
   build: {},
   robots: {
-    Sitemap: `${process.env.logipar.gemy-athena.com}/sitemap.xml`
+    Sitemap: `~/sitemap.xml`
     },
   sitemap: {
     path: '/sitemap.xml',
