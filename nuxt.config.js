@@ -22,7 +22,7 @@ export default {
       {
         hid: 'og:url',
         name: 'og:url',
-        content: https://logipar.gemy-athena.com
+        content: 'https://logipar.gemy-athena.com'
       },
       {
         hid: 'og:title',
@@ -44,11 +44,6 @@ export default {
         name: 'og:image',
         content: `~/assets/logos/logo_logipar_ouest_blc.png`
       },
-      //{
-      //  hid: 'google-site-verification',
-      //  name: 'google-site-verification', 
-      //  content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN
-      //},
       {
         name: 'msapplication-TileColor',
         content: '#FDF8F3'
