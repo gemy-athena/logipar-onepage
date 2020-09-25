@@ -1,4 +1,3 @@
-
 export default {
   ssr: false,
   target: 'static',
@@ -6,18 +5,25 @@ export default {
     title: 'Logipar - Distributeur de pièces de rechange automobile multimarques',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description',
+      {
+        name: 'viewport',
+        content: 'width=device-width, initial-scale=1'
+      },
+      {
+        hid: 'description',
         name: 'description',
         content: 'Le spécialiste de la distribution de pièces de rechange automobile multimarques. Logipar opère au sein du réseau Distrigo depuis ses 2 plateformes : Ouest (Torcé) & Provence (Le Luc).'
       }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/favicon.ico'
+      }
     ]
   },
-  css: [
-  ],
+  css: [],
   plugins: [
   ],
   components: true,
@@ -26,9 +32,14 @@ export default {
     '@nuxtjs/tailwindcss'
   ],
   modules: [
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/robots',
+    '@nuxtjs/sitemap'
   ],
   content: {},
-  build: {
+  build: {},
+  robots: {},
+  sitemap: {
+    hostname: 'https://logipar.gemy-athena.com'
   }
 }
