@@ -19,39 +19,6 @@ export default {
         name: 'og:type',
         content: 'website'
       },
-      {
-        hid: 'og:url',
-        name: 'og:url',
-        content: 'https://logipar.gemy-athena.com'
-      },
-      {
-        hid: 'og:title',
-        name: 'og:title',
-        content: 'Logipar'
-      },
-      {
-        hid: 'og:site_name',
-        name: 'og:site_name',
-        content: 'Logipar'
-      },
-      {
-        hid: 'og:locale',
-        name: 'og:locale',
-        content: 'fr'
-      },
-      {
-        hid: 'og:image',
-        name: 'og:image',
-        content: `~/assets/logos/logo_logipar_ouest_blc.png`
-      },
-      {
-        name: 'msapplication-TileColor',
-        content: '#FDF8F3'
-      },
-      {
-        name: 'theme-color',
-        content: '#FDF8F3'
-      }
     ],
     link: [
       {
