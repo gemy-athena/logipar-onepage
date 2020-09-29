@@ -1,8 +1,11 @@
 export default {
-  ssr: false,
+  ssr: true,
   target: 'static',
   head: {
     title: 'Logipar - Distributeur de pièces de rechange automobile multimarques',
+    htmlAttrs: {
+      lang: 'fr'
+    },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -56,7 +59,7 @@ export default {
   content: {},
   build: {},
   robots: {
-    Sitemap: '~/sitemap.xml'
+    Sitemap: 'https://logipar.fr/sitemap.xml'
   },
   sitemap: {
     path: '/sitemap.xml',
