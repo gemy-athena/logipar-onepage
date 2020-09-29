@@ -20,7 +20,7 @@ export default {
       { hid: 'og:title', property: 'og:title', content: 'Logipar - Distributeur de pièces de rechange automobile multimarques' },
       { hid: 'og:description', property: 'og:description', content: 'Le spécialiste de la distribution de pièces de rechange automobile multimarques. Logipar opère au sein du réseau Distrigo depuis ses 2 plateformes : Ouest (Torcé) & Provence (Le Luc).' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'Logipar' },
-      { hid: 'og:image', property: 'og:image', content: 'https://logipar.gemy-athena.com/assets/logos/logipar_couleur_hd.jpg' },
+      { hid: 'og:image', property: 'og:image', content: 'https://logipar.gemy-athena.com/assets/logos/logipar.JPG' },
       { hid: 'og:image:type', property: 'og:image:type', content: 'image/png' },
       { hid: 'og:image:height', property: 'og:image:height', content: '88' },
       { hid: 'og:image:width', property: 'og:image:width', content: '500' },
@@ -32,7 +32,7 @@ export default {
       { hid: 'twitter:url', name: 'twitter:url', content: 'https://logipar.fr/' },
       { hid: 'twitter:title', name: 'twitter:title', content: 'Logipar - Distributeur de pièces de rechange automobile multimarques' },
       { hid: 'twitter:description', name: 'twitter:description', content: 'Le spécialiste de la distribution de pièces de rechange automobile multimarques. Logipar opère au sein du réseau Distrigo depuis ses 2 plateformes : Ouest (Torcé) & Provence (Le Luc).' },
-      { hid: 'twitter:image', name: 'twitter:image', content: '~/assets/logos/logipar_couleur_hd.jpg' },
+      { hid: 'twitter:image', name: 'twitter:image', content: '~/assets/logos/logipar.JPG' },
       { hid: 'twitter:image:alt', name: 'twitter:image:alt', content: 'Logo logipar' }
     ],
     link: [
