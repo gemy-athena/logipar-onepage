@@ -44,6 +44,7 @@ export default {
   },
   css: [],
   plugins: [
+    { src: './plugins/vue-carousel.js', ssr: false }
   ],
   components: true,
   buildModules: [

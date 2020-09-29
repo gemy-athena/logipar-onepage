@@ -16,8 +16,7 @@
     "@nuxtjs/robots": "^2.4.2",
     "@nuxtjs/sitemap": "^2.4.0",
     "nuxt": "^2.14.5",
-    "vue-carousel": "^0.18.0",
-    "vue-slick-carousel": "^1.0.6"
+    "vue-carousel": "^0.18.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.1.0",
@@ -27,6 +26,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.5.0",
     "eslint-plugin-nuxt": "^1.0.0",
-    "tailwindcss-debug-screens": "^1.1.0"
+    "tailwindcss-debug-screens": "^1.1.0",
+    "vue": "^2.6.12"
   }
 }
