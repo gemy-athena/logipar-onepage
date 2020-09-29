@@ -20,7 +20,7 @@ export default {
       { hid: 'og:title', property: 'og:title', content: 'Logipar - Distributeur de pièces de rechange automobile multimarques' },
       { hid: 'og:description', property: 'og:description', content: 'Le spécialiste de la distribution de pièces de rechange automobile multimarques. Logipar opère au sein du réseau Distrigo depuis ses 2 plateformes : Ouest (Torcé) & Provence (Le Luc).' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'Logipar' },
-      { hid: 'og:image', property: 'og:image', content: '/assets/logos/llogipar_couleur_hd.png' },
+      { hid: 'og:image', property: 'og:image', content: '~/assets/logos/llogipar_couleur_hd.png' },
       { hid: 'og:image:type', property: 'og:image:type', content: 'image/png' },
       { hid: 'og:image:height', property: 'og:image:height', content: '105' },
       { hid: 'og:image:width', property: 'og:image:width', content: '600' },
