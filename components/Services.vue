@@ -19,9 +19,9 @@
       <!--ILLUSTRATION-->
       <div class="lg:w-1/2 w-full lg:mb-0 rounded-lg overflow-hidden">
         <img
-          alt="feature"
+          alt="Logipar - Entrepot"
           class="object-cover object-center h-full w-full"
-          src="https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3304&q=80"
+          src="~/assets/image/entrepot.jpg"
         >
       </div>
       <!--TEXTE-->

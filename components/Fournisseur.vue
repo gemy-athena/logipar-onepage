@@ -1,8 +1,8 @@
 <template>
   <div class="md:container mx-auto text-center text-gray-700 body-font">
-    <h3 class="text-base font-bold leading-6 tracking-wide uppercase mt-10 mb-5">
+    <h4 class="text-base font-bold leading-6 tracking-wide uppercase mt-10 mb-5">
       Parmi nos fournisseurs
-    </h3>
+    </h4>
     <client-only>
       <carousel
         class="flex"

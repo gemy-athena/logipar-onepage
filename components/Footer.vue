@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto divide-y divide-gray-400">
       <!--LIENS REASEAUX SOCIAUX-->
       <div class="flex sm:flex-col md:flex-row justify-between p-4 items-center">
-        <a href="https://gemy-automobiles.fr" target="_blank" class="hover:underline m-2">
+        <a href="https://gemy-automobiles.fr" target="_blank" class="hover:underline m-2" rel="noreferrer">
           <img src="~/assets/logos/gemy_bleu_blanc.svg" alt="" class="h-10">
         </a>
 
@@ -22,13 +22,13 @@
       </div>
 
       <div class="flex sm:flex-col md:flex-row justify-between items-center p-4">
-        <a class="flex m-2" href="https://autoprepar.gemy.fr" target="_blank">
+        <a class="flex m-2" href="https://autoprepar.gemy.fr" target="_blank" rel="noreferrer">
           <img src="~/assets/logos/autoprepar.svg" alt="" class="h-4">
         </a>
-        <a class="flex m-2" href="https://logipar.gemy.fr" target="_blank">
+        <a class="flex m-2" href="https://logipar.gemy.fr" target="_blank" rel="noreferrer">
           <img src="~/assets/logos/logipar.svg" alt="" class="h-4">
         </a>
-        <a class="flex m-2" href="https://progicar.gemy.fr" target="_blank">
+        <a class="flex m-2" href="https://progicar.gemy.fr" target="_blank" rel="noreferrer">
           <img src="~/assets/logos/progicar.svg" alt="" class="h-4">
         </a>
       </div>
