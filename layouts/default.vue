@@ -1,5 +1,5 @@
 <template>
-  <div class="debug-screens">
+  <div>
     <Nuxt />
   </div>
 </template>
