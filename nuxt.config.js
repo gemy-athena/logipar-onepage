@@ -50,7 +50,8 @@ export default {
   modules: [
     '@nuxt/content',
     '@nuxtjs/robots',
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+    '@nuxtjs/google-gtag'
   ],
   content: {},
   build: {},
@@ -63,5 +64,14 @@ export default {
     cacheTime: '1000 * 60 * 1',
     gzip: true,
     generate: false
+  },
+  'google-gtag': {
+    id: 'UA-120930266-2',
+    config: {
+      anonymize_ip: false,
+      send_page_view: true
+    },
+    debug: false,
+    disableAutoPageTrack: false
   }
 }
