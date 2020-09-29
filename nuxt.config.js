@@ -15,12 +15,12 @@ export default {
       { hid: 'apple-mobile-web-app-status-bar-style', name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' },
 
       // Facebook Open Graph Tags
-      { hid: 'og:url', property: 'og:url', content: 'https://logipar.fr' },
+      { hid: 'og:url', property: 'og:url', content: 'https://logipar.gemy-athena.com' },
       { hid: 'og:locale', property: 'og:locale', content: 'fr' },
       { hid: 'og:title', property: 'og:title', content: 'Logipar - Distributeur de pièces de rechange automobile multimarques' },
       { hid: 'og:description', property: 'og:description', content: 'Le spécialiste de la distribution de pièces de rechange automobile multimarques. Logipar opère au sein du réseau Distrigo depuis ses 2 plateformes : Ouest (Torcé) & Provence (Le Luc).' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'Logipar' },
-      { hid: 'og:image', property: 'og:image', content: '~/assets/logos/logipar_couleur_hd.jpg' },
+      { hid: 'og:image', property: 'og:image', content: 'https://logipar.gemy-athena.com/assets/logos/logipar_couleur_hd.jpg' },
       { hid: 'og:image:type', property: 'og:image:type', content: 'image/png' },
       { hid: 'og:image:height', property: 'og:image:height', content: '88' },
       { hid: 'og:image:width', property: 'og:image:width', content: '500' },
