@@ -18,7 +18,7 @@
               </div>
               <div>
                 <br>
-                <p>ZA La Padiguière</p>
+                <p>ZA La Pardiguière</p>
                 <p>83340 Le Luc en Provence</p>
               </div>
             </div>
@@ -78,9 +78,9 @@
               </div>
               <div>
                 <p>
-                  Les Portes de Bretagne
+                  Parc d'activités de Torcé Ouest
                   <br>
-                  Parc d’activités de Torcé Ouest
+                  Zone du Haut Montigné
                 </p>
                 <p>35370 Torcé</p>
               </div>
