@@ -1,4 +1,4 @@
-export default {
+  export default {
   ssr: true,
   target: 'static',
   head: {
@@ -60,10 +60,10 @@ export default {
   content: {},
   build: {},
   robots: {
-    Sitemap: 'https://logipar.fr/sitemap.xml'
+    Sitemap: 'sitemap.xml'
   },
   sitemap: {
-    path: '/sitemap.xml',
+    path: 'sitemap.xml',
     hostname: 'https://logipar.fr',
     cacheTime: '1000 * 60 * 1',
     gzip: true,

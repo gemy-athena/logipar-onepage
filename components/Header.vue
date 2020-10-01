@@ -103,14 +103,14 @@
           <rect width="404" height="784" fill="url(#8b1b5f72-e944-4457-af67-0c6d15a99f38)" />
         </svg>
         <div class="px-4 sm:px-8 xl:pr-16">
-          <h2 class="text-5xl tracking-tight leading-10 font-extrabold text-gray-900">
+          <h1 class="text-5xl tracking-tight leading-10 font-extrabold text-gray-900">
             Le spécialiste de la
             <br class="xl:hidden">
             <span class="text-orange-600">distribution de pièces de rechange automobile multimarques</span>
-          </h2>
-          <p class="max-w-md mx-auto text-lg text-gray-600 font-light sm:text-xl mt-10 md:max-w-3xl">
+          </h1>
+          <h2 class="max-w-md mx-auto text-lg text-gray-600 font-light sm:text-xl mt-10 md:max-w-3xl">
             Logipar opère au sein du réseau Distrigo à partir de deux plateformes logistiques, l’une dans le Grand Ouest (Torcé), l’autre en Provence (Le Luc)
-          </p>
+          </h2>
 
           <div class="flex sm:flex-col lg:flex-row justify-center items-center mt-10">
             <div class="flex m-5">
