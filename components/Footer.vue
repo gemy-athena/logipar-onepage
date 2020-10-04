@@ -22,13 +22,13 @@
       </div>
 
       <div class="flex sm:flex-col md:flex-row justify-between items-center p-4">
-        <a class="flex m-2" href="https://autoprepar.gemy.fr" target="_blank" rel="noreferrer">
+        <a class="flex m-2" href="https://autoprepar.fr" target="_blank" rel="noreferrer">
           <img src="~/assets/logos/autoprepar.svg" alt="" class="h-4">
         </a>
-        <a class="flex m-2" href="https://logipar.gemy.fr" target="_blank" rel="noreferrer">
+        <a class="flex m-2" href="https://logipar.fr" target="_blank" rel="noreferrer">
           <img src="~/assets/logos/logipar.svg" alt="" class="h-4">
         </a>
-        <a class="flex m-2" href="https://progicar.gemy.fr" target="_blank" rel="noreferrer">
+        <a class="flex m-2" href="https://progicar.fr" target="_blank" rel="noreferrer">
           <img src="~/assets/logos/progicar.svg" alt="" class="h-4">
         </a>
       </div>
