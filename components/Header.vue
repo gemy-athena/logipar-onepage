@@ -23,6 +23,7 @@
             <span class="inline-flex rounded-md shadow-sm">
               <a
                 href="http://commande.logipar.fr"
+                target="_blank"
                 rel="noreferrer"
                 class="whitespace-no-wrap inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gray-800 hover:bg-orange-500 focus:outline-none focus:border-orange-700 focus:shadow-outline-orange active:bg-orange-700 transition ease-in-out duration-150"
               >
@@ -61,6 +62,7 @@
                 <span class="w-full flex rounded-md shadow-sm">
                   <a
                     href="http://commande.logipar.fr"
+                    target="_blank"
                     rel="noreferrer"
                     class="w-full flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gray-900 hover:bg-orange-500 focus:outline-none focus:border-orange-700 focus:shadow-outline-orange active:bg-orange-700 transition ease-in-out duration-150"
                   >
