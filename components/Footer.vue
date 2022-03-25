@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gray-800">
-    <div class="max-w-screen-xl mx-auto divide-y divide-gray-400">
+    <div class="max-w-screen-xl mx-auto">
       <!--LIENS REASEAUX SOCIAUX-->
       <div class="flex sm:flex-col md:flex-row justify-between p-4 items-center">
         <a href="https://gemy-automobiles.fr" target="_blank" class="hover:underline m-2" rel="noreferrer">
@@ -21,7 +21,13 @@
         </a>
       </div>
 
-      <div class="flex sm:flex-col md:flex-row justify-between items-center p-4">
+      <div class="flex sm:flex-col md:flex-row justify-between p-4 items-center">
+        <NuxtLink to="/index-egalite-logipar-ouest" class="text-white underline">
+          Nos engagements
+        </NuxtLink>
+      </div>
+
+      <div class="flex sm:flex-col md:flex-row justify-between items-center p-4 border-t border-gray-400">
         <a class="flex m-2" href="https://autoprepar.fr" target="_blank" rel="noreferrer">
           <img src="~/assets/logos/autoprepar.svg" alt="" class="h-4">
         </a>
