@@ -16,14 +16,14 @@
         <div class="flex justify-center">
           <ul class="list-disc my-6">
             <li>Indicateur 1 : écart de rémunération H/F,</li>
-            <li>Indicateur 2 : écart de taux d’augmentations individuelles H/F,/F,</li>
+            <li>Indicateur 2 : écart de taux d’augmentations individuelles H/F,</li>
             <li>Indicateur 3 : écart de taux de promotion H/F,</li>
             <li>Indicateur 4 : taux de salariées augmentées après leur retour de congé maternité,</li>
             <li>Indicateur 5 : répartition sexuée des dix salariés ayant les plus hautes rémunérations.</li>
           </ul>
         </div>
 
-        <div class="mb-6 flex justify-center">
+        <div class="my-6 flex justify-center">
           <LogoTitre class="object-cover h-12" />
         </div>
 
