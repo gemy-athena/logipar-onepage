@@ -3,7 +3,7 @@
     <Header />
     <div class="lg:relative">
       <div class="mx-auto max-w-7xl w-full py-16 md:container">
-        <div class="mb-6">
+        <div class="mb-6 flex justify-center">
           <img src="~/assets/image/egalite.webp" alt="" class="object-cover h-48">
         </div>
 
@@ -13,13 +13,19 @@
           sont les suivants :
         </p>
 
-        <ul class="list-disc my-6">
-          <li>Indicateur 1 : écart de rémunération H/F,</li>
-          <li>Indicateur 2 : écart de taux d’augmentations individuelles H/F,/F,</li>
-          <li>Indicateur 3 : écart de taux de promotion H/F,</li>
-          <li>Indicateur 4 : taux de salariées augmentées après leur retour de congé maternité,</li>
-          <li>Indicateur 5 : répartition sexuée des dix salariés ayant les plus hautes rémunérations.</li>
-        </ul>
+        <div class="flex justify-center">
+          <ul class="list-disc my-6">
+            <li>Indicateur 1 : écart de rémunération H/F,</li>
+            <li>Indicateur 2 : écart de taux d’augmentations individuelles H/F,/F,</li>
+            <li>Indicateur 3 : écart de taux de promotion H/F,</li>
+            <li>Indicateur 4 : taux de salariées augmentées après leur retour de congé maternité,</li>
+            <li>Indicateur 5 : répartition sexuée des dix salariés ayant les plus hautes rémunérations.</li>
+          </ul>
+        </div>
+
+        <div class="mb-6 flex justify-center">
+          <LogoTitre class="object-cover h-12" />
+        </div>
 
         <p class="my-6">
           L’égalité femmes-hommes est aujourd’hui un enjeu sociétal majeur. Nous nous engageons à garantir un équilibre sur la promotion, la rémunération et les
@@ -30,14 +36,16 @@
           Les résultats de l’index égalité femmes – hommes relatifs à l’année 2021 pour Logipar Ouest sont les suivants :
         </p>
 
-        <ul class="list-disc my-6">
-          <li>Indicateur 1 : 21 points</li>
-          <li>Indicateur 2 : 20 points</li>
-          <li>Indicateur 3 : 15 points</li>
-          <li>Indicateur 4 : 15 points</li>
-          <li>Indicateur 5 : 5 points</li>
-          <li>Note globale : 76 points</li>
-        </ul>
+        <div class="flex justify-center">
+          <ul class="list-disc my-6">
+            <li>Indicateur 1 : 21 points</li>
+            <li>Indicateur 2 : 20 points</li>
+            <li>Indicateur 3 : 15 points</li>
+            <li>Indicateur 4 : 15 points</li>
+            <li>Indicateur 5 : 5 points</li>
+            <li>Note globale : 76 points</li>
+          </ul>
+        </div>
       </div>
     </div>
     <Footer />
