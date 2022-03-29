@@ -122,6 +122,13 @@
                 </span>
               </div>
             </div>
+            <div class="mt-3">
+              <div class=" p-4 items-center">
+                <NuxtLink to="/index-egalite-logipar-ouest" class="underline">
+                  Nos engagements
+                </NuxtLink>
+              </div>
+            </div>
           </div>
         </div>
       </div>

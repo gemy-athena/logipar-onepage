@@ -21,12 +21,6 @@
         </a>
       </div>
 
-      <div class="flex sm:flex-col md:flex-row justify-between p-4 items-center">
-        <NuxtLink to="/index-egalite-logipar-ouest" class="text-white underline">
-          Nos engagements
-        </NuxtLink>
-      </div>
-
       <div class="flex sm:flex-col md:flex-row justify-between items-center p-4 border-t border-gray-400">
         <a class="flex m-2" href="https://autoprepar.fr" target="_blank" rel="noreferrer">
           <img src="~/assets/logos/autoprepar.svg" alt="" class="h-4">
