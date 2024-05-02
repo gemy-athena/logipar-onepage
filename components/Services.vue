@@ -96,7 +96,7 @@
         </div>
         <div class="leading-relaxed text-left">
           <ul class="font-light list-disc ml-8 mt-4  text-gray-600">
-            <li><a href="http://commande.logipar.fr" class="underline font-medium">Multiparts : 1 solution logicielle dédiée pour les commandes</a></li>
+            <li><a href="https://www.progicar.fr/progicar-multiparts/" class="underline font-medium">Multiparts : 1 solution logicielle dédiée pour les commandes</a></li>
             <li> Multibrand : un catalogue d’identification multimarques</li>
             <li> Procédure de retour simplifiée</li>
           </ul>
