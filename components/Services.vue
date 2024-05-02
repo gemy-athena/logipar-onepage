@@ -41,10 +41,10 @@
         </div>
         <div class="leading-relaxed text-left">
           <ul class="font-light list-disc ml-8 mt-4 text-gray-600">
-            <li>pièces d’origine multimarques</li>
-            <li>consommables</li>
-            <li>outillage</li>
-            <li>matériel de garage</li>
+            <li>Pièces d’origine multimarques</li>
+            <li>Consommables</li>
+            <li>Outillage</li>
+            <li>Matériel de garage</li>
             <li>EPI</li>
           </ul>
         </div>
@@ -69,9 +69,9 @@
         </div>
         <div class="leading-relaxed text-left">
           <ul class="font-light list-disc ml-8 mt-4  text-gray-600">
-            <li> Service 24h/24 grâce à une prise de commande multicanal</li>
+            <li> Service 24h/24 grâce à une prise de commande multicanale</li>
             <li> Préparation à l’ordre de réparation</li>
-            <li> plus de 5 000 commandes par jour</li>
+            <li> Plus de 5 000 commandes par jour</li>
             <li> 2 à 4 livraisons par jour vers plus de 1 000 points de ventes</li>
           </ul>
         </div>
@@ -96,8 +96,8 @@
         </div>
         <div class="leading-relaxed text-left">
           <ul class="font-light list-disc ml-8 mt-4  text-gray-600">
+            <li><a href="http://commande.logipar.fr" class="underline font-medium">Multiparts : 1 solution logicielle dédiée pour les commandes</a></li>
             <li> Multibrand : un catalogue d’identification multimarques</li>
-            <li><a href="http://commande.logipar.fr" class="underline font-medium">1 site internet de commande dédié</a></li>
             <li> Procédure de retour simplifiée</li>
           </ul>
         </div>
