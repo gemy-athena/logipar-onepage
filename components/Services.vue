@@ -5,13 +5,8 @@
         Produits et services
       </h1>
       <div class="max-w-md mx-auto text-lg text-gray-600 font-light sm:text-xl mt-10 md:max-w-3xl">
-        <p>
-          Une gamme complète de pièces de rechange et de services pour la réparation automobile
-        </p>
-
         <p class="mt-10">
-          LOGIPAR fournit des pièces de rechanges multi marques pour véhicules automobiles, VL et VUL, aux concessions automobiles, aux agents de marque,
-          aux réparateurs indépendants ainsi qu’aux ateliers intégrés
+          Dans un entrepôt de plus de 10 000 m2, Logipar propose aux professionnels de l’automobile des pièces d’origine Peugeot, Citroën, DS, OPEL et Fiat, ainsi que des pièces adaptables. Chaque jour, Logipar reçoit plus de 5 000 lignes de commandes qui suivent le même processus logistique : d’abord, les clients passent leur commande via un site internet ou un centre d’appels dédiés. Chaque commande est préparée à l’ordre de réparation, puis conditionnée pour la livraison. Ainsi, Logipar organise 2 à 4 livraisons par jour vers plus de 1 000 points de vente.
         </p>
       </div>
     </div>
@@ -21,7 +16,7 @@
         <img
           alt="Logipar - Entrepot"
           class="object-cover object-center h-full w-full"
-          src="~/assets/image/entrepot.jpg"
+          src="~/assets/photos/gemy.logipar.2023.07-284.low resolution.jpg"
         >
       </div>
       <!--TEXTE-->
@@ -41,7 +36,7 @@
             </svg>
           </div>
           <div class="flex ml-2">
-            Large stock de + 65000 références
+            Distribution de + 30 000
           </div>
         </div>
         <div class="leading-relaxed text-left">
@@ -76,8 +71,8 @@
           <ul class="font-light list-disc ml-8 mt-4  text-gray-600">
             <li> Service 24h/24 grâce à une prise de commande multicanal</li>
             <li> Préparation à l’ordre de réparation</li>
-            <li> + 5000 commandes / jour</li>
-            <li> 2 à 4 livraisons par jour vers + 1000 points de ventes</li>
+            <li> + 5 000 commandes / jour</li>
+            <li> 2 à 4 livraisons par jour vers + 1 000 points de ventes</li>
           </ul>
         </div>
 

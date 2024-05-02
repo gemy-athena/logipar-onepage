@@ -2,6 +2,7 @@
   <div>
     <Header />
     <Presentation />
+    <Photos />
     <Ambition />
     <Services />
     <Contact />
@@ -18,9 +19,11 @@ import Ambition from '@/components/Ambition.vue'
 import Services from '@/components/Services.vue'
 import Contact from '@/components/Contact.vue'
 import Fournisseur from '@/components/Fournisseur.vue'
+import Photos from '@/components/Photos.vue'
 
 export default {
   components: {
+    Photos,
     Fournisseur,
     Presentation,
     Contact,

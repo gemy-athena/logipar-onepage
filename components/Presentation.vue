@@ -31,12 +31,10 @@
       </svg>
       <div class="px-4 sm:px-8 xl:pr-16">
         <h1 class="text-5xl tracking-tight leading-10 font-extrabold text-gray-900">
-          Le spécialiste de la
-          <br class="xl:hidden">
-          <span class="text-orange-600">distribution de pièces de rechange automobile multimarques</span>
+          Logipar est un spécialiste de la distribution de pièces de rechange automobile dans le grand Ouest
         </h1>
         <h2 class="max-w-md mx-auto text-lg text-gray-600 font-light sm:text-xl mt-10 md:max-w-3xl">
-          Logipar opère au sein du réseau Distrigo à partir de deux plateformes logistiques, l’une dans le Grand Ouest (Torcé), l’autre en Provence (Le Luc)
+          Fondé en 2004, le site de Torcé (35) distribue plus de 30 000 références multimarques des pneumatiques, de la peinture et de l’outillages au sein du réseau Distrigo.
         </h2>
 
         <div class="flex sm:flex-col lg:flex-row justify-center items-center mt-10">
@@ -49,8 +47,7 @@
         </div>
         <div class="max-w-md mx-auto text-lg text-gray-600 font-light sm:text-xl mt-10 md:max-w-3xl">
           <p>
-            Dès sa fondation en 2004 - d’abord sous le nom Gemy PR - Logipar a été l’un des premiers distributeurs en France à mettre en œuvre une approche de
-            type logistique à grande échelle et d’une digitalisation du service.
+            Logipar compte aujourd’hui 70 collaborateurs répartis entre le centre d’appels, les équipes commerciales terrain, l’exploitation ainsi que les fonctions supports. Tous contribuent à offrir le meilleur service aux clients concessionnaires, agents de marque, réparateurs et carrossiers indépendants.
           </p>
         </div>
       </div>
