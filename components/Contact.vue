@@ -20,9 +20,11 @@
                 <p>
                   Parc d'activités de Torcé Ouest
                   <br>
-                  Zone du Haut Montigné
+                  473 rue Dupont Samoual
+                  <br>
+                  ZA du Haut-Montigné
                 </p>
-                <p>35370 Torcé</p>
+                <p>35 370 Torcé</p>
               </div>
             </div>
             <div class="mt-6">

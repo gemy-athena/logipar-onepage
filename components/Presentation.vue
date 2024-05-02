@@ -31,10 +31,10 @@
       </svg>
       <div class="px-4 sm:px-8 xl:pr-16">
         <h1 class="text-5xl tracking-tight leading-10 font-extrabold text-gray-900">
-          Logipar est un spécialiste de la distribution de pièces de rechange automobile dans le grand Ouest
+          Logipar est un spécialiste de la distribution de pièces de rechange automobiles dans le grand Ouest
         </h1>
         <h2 class="max-w-md mx-auto text-lg text-gray-600 font-light sm:text-xl mt-10 md:max-w-3xl">
-          Fondé en 2004, le site de Torcé (35) distribue plus de 30 000 références multimarques des pneumatiques, de la peinture et de l’outillages au sein du réseau Distrigo.
+          Fondé en 2004, le site de Torcé (35) distribue plus de 30 000 références multimarques, des pneumatiques, de la peinture et de l’outillage au sein du réseau Distrigo.
         </h2>
 
         <div class="flex sm:flex-col lg:flex-row justify-center items-center mt-10">

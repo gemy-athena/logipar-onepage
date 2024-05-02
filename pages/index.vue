@@ -7,6 +7,7 @@
     <Services />
     <Contact />
     <Fournisseur />
+    <Video />
     <Footer />
   </div>
 </template>
@@ -20,9 +21,11 @@ import Services from '@/components/Services.vue'
 import Contact from '@/components/Contact.vue'
 import Fournisseur from '@/components/Fournisseur.vue'
 import Photos from '@/components/Photos.vue'
+import Video from '@/components/Video.vue'
 
 export default {
   components: {
+    Video,
     Photos,
     Fournisseur,
     Presentation,

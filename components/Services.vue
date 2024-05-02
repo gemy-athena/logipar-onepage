@@ -6,7 +6,7 @@
       </h1>
       <div class="max-w-md mx-auto text-lg text-gray-600 font-light sm:text-xl mt-10 md:max-w-3xl">
         <p class="mt-10">
-          Dans un entrepôt de plus de 10 000 m2, Logipar propose aux professionnels de l’automobile des pièces d’origine Peugeot, Citroën, DS, OPEL et Fiat, ainsi que des pièces adaptables. Chaque jour, Logipar reçoit plus de 5 000 lignes de commandes qui suivent le même processus logistique : d’abord, les clients passent leur commande via un site internet ou un centre d’appels dédiés. Chaque commande est préparée à l’ordre de réparation, puis conditionnée pour la livraison. Ainsi, Logipar organise 2 à 4 livraisons par jour vers plus de 1 000 points de vente.
+          Dans un entrepôt de plus de 10 000 m2, Logipar propose aux professionnels de l’automobile des pièces d’origine Peugeot, Citroën, DS, OPEL et Fiat, ainsi que des pièces adaptables. Chaque jour, Logipar reçoit plus de 5 000 lignes de commandes qui suivent le même processus logistique : d’abord, les clients passent leur commande via un site internet ou un centre d’appels dédiés. Chaque commande est préparée à l’ordre de réparation, puis conditionnée pour la livraison. Ainsi, Logipar organise 2 à 4 livraisons par jour vers plus de 1000 points de vente.
         </p>
       </div>
     </div>
@@ -36,7 +36,7 @@
             </svg>
           </div>
           <div class="flex ml-2">
-            Distribution de + 30 000
+            Distribution de plus de 30 000 références
           </div>
         </div>
         <div class="leading-relaxed text-left">
@@ -71,8 +71,8 @@
           <ul class="font-light list-disc ml-8 mt-4  text-gray-600">
             <li> Service 24h/24 grâce à une prise de commande multicanal</li>
             <li> Préparation à l’ordre de réparation</li>
-            <li> + 5 000 commandes / jour</li>
-            <li> 2 à 4 livraisons par jour vers + 1 000 points de ventes</li>
+            <li> plus de 5 000 commandes par jour</li>
+            <li> 2 à 4 livraisons par jour vers plus de 1 000 points de ventes</li>
           </ul>
         </div>
 
