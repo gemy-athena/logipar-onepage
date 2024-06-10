@@ -42,6 +42,7 @@
         <div class="leading-relaxed text-left">
           <ul class="font-light list-disc ml-8 mt-4 text-gray-600">
             <li>Pièces d’origine multimarques</li>
+            <li>Pneumatiques</li>
             <li>Consommables</li>
             <li>Outillage</li>
             <li>Matériel de garage</li>
