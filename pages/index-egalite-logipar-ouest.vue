@@ -8,30 +8,30 @@
         </div>
 
         <p class="my-2">
-          <strong>Index égalité professionnelle H/F pour 2023</strong>
+          <strong>Index égalité professionnelle H/F pour 2024</strong>
         </p>
         <p class="my-2">
-          Dans le cadre de la publication annuelle de l’Index Egalité Professionnelle entre les Femmes et les Hommes, Logipar a obtenu la note de 66/100 pour l’année 2023.
+          Dans le cadre de la publication annuelle de l’Index Egalité Professionnelle entre les Femmes et les Hommes, Logipar a obtenu la note de 77/100 pour l’année 2024 (66/100 pour l’année 2023).
         </p>
         <p class="my-2">
           Voici le détail des notes obtenues pour chaque indicateur :
         </p>
         <div class="flex justify-center">
           <ul class="list-disc my-6">
-            <li>Ecart de rémunération : 11/40</li>
-            <li>Ecart du taux d’augmentation individuelle : 35/35</li>
-            <li>% de salariées augmentées au retour de congé maternité : 15/15</li>
-            <li>Nombre de personnes du sexe sous-représenté parmi les 10 plus hautes rémunérations : 5/10</li>
+            <li>Ecart de rémunération</li>
+            <li>Ecart du taux d’augmentation individuelle</li>
+            <li>% de salariées augmentées au retour de congé maternité</li>
+            <li>Nombre de personnes du sexe sous-représenté parmi les 10 plus hautes rémunérations</li>
           </ul>
         </div>
         <p class="my-2">
           Objectifs de progression fixés :
         </p>
         <p class="my-2">
-          L’analyse de la situation comparée des hommes et des femmes traduit une représentativité plus importante des hommes (63.6%) par rapport aux femmes (36.4%).
+          L’analyse de la situation comparée des hommes et des femmes traduit une représentativité plus importante des hommes (63 %) par rapport aux femmes (37%).
         </p>
         <p class="my-2">
-          Cette sur-représentativité s’explique à la fois par le secteur d'activité : métiers de l’automobile (22.7% de femmes dans les effectifs du secteur d’activité selon l’observatoire de l’ANFA) et par les rythmes de travail existants au sein de l’entreprise notamment sur la partie logistique (3x8). Malgré une politique de recrutement visant à augmenter le nombre de collaborateurs féminins dans les effectifs, l’équipe travaillant de nuit est composée à 100% d’hommes à date du présent constat.
+          Cette sur-représentativité s’explique à la fois par le secteur d’activité : métiers de l’automobile (22.7% de femmes dans les effectifs du secteur d’activité selon l’observatoire de l’ANFA) et par les rythmes de travail existants au sein de l’entreprise notamment sur la partie logistique (3x8).
         </p>
         <br>
         <p class="my-2">

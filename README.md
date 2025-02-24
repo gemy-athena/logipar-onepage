@@ -3,6 +3,13 @@
 ## Build Setup
 
 ```bash
+
+# use compatible node version
+nvm use v18.20.5
+
+# set openssl legacy provider
+export NODE_OPTIONS=--openssl-legacy-provider
+
 # install dependencies
 $ yarn install
 
