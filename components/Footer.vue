@@ -6,9 +6,12 @@
         <a href="https://gemy-automobiles.fr" target="_blank" class="hover:underline m-2" rel="noreferrer">
           <img src="~/assets/logos/gemy_bleu_blanc.svg" alt="" class="h-10">
         </a>
-        <p class="text-base leading-6 text-gray-400 m-2">
-          &copy; 2024 Logipar - tous droits réservés
-        </p>
+        <div class="flex flex-col items-center">
+          <p class="text-base leading-6 text-gray-400 m-2">
+            &copy; 2025 Logipar - tous droits réservés
+          </p>
+          <a href="https://www.gemy.fr/mentions-legales" class="text-gray-400 hover:text-gray-300 text-sm">Politique de confidentialité</a>
+        </div>
         <div class="flex flex-row space-x-4">
           <a href="https://www.linkedin.com/company/gemy/" class="flex text-gray-400 hover:text-gray-300 m-2">
             <span class="sr-only">Linkedin</span>
